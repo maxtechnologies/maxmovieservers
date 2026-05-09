@@ -5,9 +5,6 @@
       "maxDuration": 10
     }
   },
-  "env": {
-    "GIFTED_API_KEY": "@gifted_api_key"
-  },
   "headers": [
     {
       "source": "/api/(.*)",
