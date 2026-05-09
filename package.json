@@ -1,0 +1,16 @@
+{
+  "name": "maxmovies-backend",
+  "version": "2.0.0",
+  "description": "MaxMovies Backend API - Fixed CORS issues",
+  "main": "api/homepage.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
